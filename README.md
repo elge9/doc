@@ -1,4 +1,7 @@
-# Nethence Documentation
+# Deployment Guides
 
-This is the GIT repo for the [Nethence Documentation](http://doc.nethence.com/).
+This is not hosted on github anymore
+
+- http://doc.nethence.com/
+- http://pub.nethence.com/
 
